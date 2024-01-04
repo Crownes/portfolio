@@ -39,6 +39,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.ПересортицаТоваровСоСвязаннымОстатком</commonModules>
+  <commonModules>CommonModule.СозданиеДокументаВзаимозачетаПоЗапросуИзВнешнейСистемы</commonModules>
   <constants>Constant.СвойствоСовместногоОстатка</constants>
   <dataProcessors>DataProcessor.ФиксацияПроблемыПриОтгрузкеЗаказа</dataProcessors>
 </mdclass:Configuration>
