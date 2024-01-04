@@ -40,4 +40,5 @@
   </languages>
   <commonModules>CommonModule.ПересортицаТоваровСоСвязаннымОстатком</commonModules>
   <constants>Constant.СвойствоСовместногоОстатка</constants>
+  <dataProcessors>DataProcessor.ФиксацияПроблемыПриОтгрузкеЗаказа</dataProcessors>
 </mdclass:Configuration>
