@@ -41,5 +41,6 @@
   <commonModules>CommonModule.ПересортицаТоваровСоСвязаннымОстатком</commonModules>
   <commonModules>CommonModule.СозданиеДокументаВзаимозачетаПоЗапросуИзВнешнейСистемы</commonModules>
   <constants>Constant.СвойствоСовместногоОстатка</constants>
+  <documents>Document.ВзаимоЗачетЗадолженности</documents>
   <dataProcessors>DataProcessor.ФиксацияПроблемыПриОтгрузкеЗаказа</dataProcessors>
 </mdclass:Configuration>

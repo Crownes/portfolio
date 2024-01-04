@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f5a8091a-7c66-4260-974e-1109bc57410f">
+  <producedTypes>
+    <objectType typeId="2cee6b24-a214-43e5-9e69-f700bde739df" valueTypeId="ed69fbe2-7b95-44ae-a977-fdbeb2a22cdc"/>
+    <refType typeId="1b78aa58-b4cc-4b42-aa76-9a2fe73032a7" valueTypeId="5a92bb82-55a4-4fc7-831f-be603314dec1"/>
+    <selectionType typeId="0ba1bf8b-c05f-45b3-bf28-771e09e6c31a" valueTypeId="01664ac2-a131-4fc6-80a3-11b85daf35ca"/>
+    <listType typeId="7798031d-d75c-45cb-990f-45347e1fe2a8" valueTypeId="f0eb68bf-a508-459c-b28e-14deb4664f7a"/>
+    <managerType typeId="c9a655c7-4077-4ec0-bcaa-d9326a694a35" valueTypeId="c241cd4d-4ad4-4faa-ad7f-b78418d20609"/>
+  </producedTypes>
+  <name>ВзаимоЗачетЗадолженности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Взаимо зачет задолженности</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.ВзаимоЗачетЗадолженности.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>
