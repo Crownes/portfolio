@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4e0fc408-3123-448a-93e0-2952202eb702">
+  <producedTypes>
+    <managerType typeId="fbe6eb57-4b39-4aed-bb66-f11fe080feb0" valueTypeId="48da7aa0-5d2e-43b7-89d3-87ea3ff9b1d9"/>
+    <valueManagerType typeId="aa680b92-c493-4b66-bede-6965735412e9" valueTypeId="43ce2dfe-6ba7-4b6d-bc3c-d203871ef434"/>
+    <valueKeyType typeId="0c4f0222-4421-4383-9e12-d3fd04529f8a" valueTypeId="8a581572-cbed-4af3-acf4-fa267d31d839"/>
+  </producedTypes>
+  <name>СвойствоСовместногоОстатка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Свойство совместного остатка</value>
+  </synonym>
+  <type>
+    <types>ChartOfCharacteristicTypesRef</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

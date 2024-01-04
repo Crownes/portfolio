@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a33579d5-af02-433b-995f-727c646b773a">
+  <name>ПересортицаТоваровСоСвязаннымОстатком</name>
+  <synonym>
+    <key>ru</key>
+    <value>Пересортица товаров со связанным остатком</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

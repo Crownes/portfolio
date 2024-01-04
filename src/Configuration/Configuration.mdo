@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="62f6af9f-8407-47a6-889a-2dfbe2f38cf1">
+  <name>Портфолио</name>
+  <synonym>
+    <key>ru</key>
+    <value>Портфолио</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="3a5f38f8-d42c-4dbe-bbb1-ff2e0a09a770"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="ba345fc8-f955-4d9e-a617-1756d1089e8b"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="0c135247-ac04-43da-8303-bc58c647f5ce"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="d7f953fa-480b-437f-a252-96b7fb7585df"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="afb28a75-4cb4-41bc-8158-d4348616437d"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="9ad35feb-dbbe-4410-ad40-addadc53bdba"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="23a1613e-c6c0-4083-b9da-cd49eef35ce9"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.23</compatibilityMode>
+  <languages uuid="1008dc83-ff37-4de7-b555-6169ce968f03">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonModules>CommonModule.ПересортицаТоваровСоСвязаннымОстатком</commonModules>
+  <constants>Constant.СвойствоСовместногоОстатка</constants>
+</mdclass:Configuration>
