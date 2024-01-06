@@ -39,6 +39,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.ВыгрузкаВозвратовДС</commonModules>
+  <commonModules>CommonModule.ДокументВзаимозачетаПоПлатёжнойОперацииИзВнешнейСистемы</commonModules>
   <commonModules>CommonModule.ПересортицаТоваровСоСвязаннымОстатком</commonModules>
   <commonModules>CommonModule.СозданиеДокументаВзаимозачетаПоЗапросуИзВнешнейСистемы</commonModules>
   <constants>Constant.СвойствоСовместногоОстатка</constants>

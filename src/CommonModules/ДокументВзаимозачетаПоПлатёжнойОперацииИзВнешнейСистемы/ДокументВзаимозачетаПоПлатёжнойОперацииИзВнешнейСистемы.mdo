@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b4080f56-61cc-4e46-a95d-0e54e4a88270">
+  <name>ДокументВзаимозачетаПоПлатёжнойОперацииИзВнешнейСистемы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Документ взаимозачета по платёжной операции из внешней системы</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>
